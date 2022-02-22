@@ -19,6 +19,6 @@ Pending on Apple App Store.
 
 ## Custom Development
 
-Please contact [admin](emailto:admin@ftwassociates.com) for custom
+Please contact [admin](mailto:admin@ftwassociates.com) for custom
 development quotes.
 
