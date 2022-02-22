@@ -2,13 +2,13 @@
 
 ### Rowing Metronome
 
-![Icon](./docs/assets/rowing_metronome_icon.png =100x100)
+<img src="./docs/assets/rowing_metronome_icon.png" width="100" height="100">
 
 Available currently on Google Play Store
 
 ### NJT To Me
 
-![Icon](./docs/assets/njt_tome_icon.png =100x100)
+<img src="./docs/assets/njt_tome_icon.png" width="100" height="100">
 
 Pending publication on Google Play Store
 
