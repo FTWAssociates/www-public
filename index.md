@@ -9,7 +9,7 @@
 Pending on Apple App Store.
 
 
-### NJT To Me
+### NJ Transit To Me
 
 <img src="./docs/assets/njt_tome_icon.png" width="100" height="100">
 
